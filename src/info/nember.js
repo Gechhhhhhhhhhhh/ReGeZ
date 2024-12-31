@@ -7,7 +7,7 @@ import Borey from "../assets/borey.jpg";
 import Bunleng from "../assets/bunleng.jpg";
 import Gech from "../assets/gech.jpg";
 import Vochleng from "../assets/vouchleng.jpg";
-import Sana from "../assets/sana.jpg";
+import Sana from "../assets/Sana.jpg";
 const Nember = [
   {
     img: Vochleng,
