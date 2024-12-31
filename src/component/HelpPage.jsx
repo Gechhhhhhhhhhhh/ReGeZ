@@ -23,9 +23,10 @@ const HelpPage = () => {
           <h1 className="text-4xl font-primary font-semibold">
             What Can We Do Together
           </h1>
-          <p className="mt-4 font-second font-light text-sm">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, ad
-            dicta doloribus sunt rerum enim rem autem possimus nobis deserunt.
+          <p className="mt-4 font-second font-light text-sm ">
+            At ReGeZ, we collaborate to organize events, share expertise, create
+            resources, and advocate for mental well-being, personal growth, and
+            equality.
           </p>
         </div>
         <div className="bg-bg">
