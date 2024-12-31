@@ -1,5 +1,5 @@
 import React from "react";
-import img2 from "../assets/img-home.png";
+import img2 from "../assets/img-Home.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
