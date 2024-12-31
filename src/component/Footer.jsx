@@ -36,9 +36,9 @@ const Footer = () => {
         <div className="">
           <h1 className="font-semibold text-2xl font-primary">Contact</h1>
           <div className="text-base ">
-            <p className="mt-3">Phone: (+855) 71 776 0209</p>
+            <p className="mt-3">Phone: (+855)71 776 0209</p>
             <p>Email:regenerative.genz@gmail.com</p>
-            <p>Address: We're an online community</p>
+            <p>Address: Online community</p>
           </div>
         </div>
         <div className="lg:ml-16">
