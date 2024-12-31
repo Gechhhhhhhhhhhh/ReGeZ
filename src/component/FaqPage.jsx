@@ -35,7 +35,7 @@ const FaqPage = () => {
             FAQs
           </h1>
           <p className="text-center mt-5 font-second px-5 ">
-            here are some comment question About ReGeZ.
+            Here are some comment question About ReGeZ
             
           </p>
         </div>
