@@ -1,5 +1,5 @@
 import React from "react";
-import img2 from "../assets/img-Home.png";
+import Img2 from "../assets/img-Home.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
@@ -36,7 +36,7 @@ const Home = () => {
             </p>
           </div>
           <div className="md:w-10/12 lg:w-1/2">
-            <img src={img2} alt="" className="pt-10" />
+            <img src={Img2} alt="" className="pt-10" />
           </div>
         </div>
       </div>
