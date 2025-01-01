@@ -63,10 +63,10 @@ const Contact = () => {
               </div>
               <h1 className="text-2xl font-extrabold font-primary ">Office</h1>
               <p className="text-sm py-1 font-second">
-                Reach out to us anytime, We're ready to help
+                We’re an online community. Reach out to us anytime.
               </p>
               <button className="hover:underline">
-                We're an online community.
+                We’re ready to help you!
               </button>
             </div>
           </div>
