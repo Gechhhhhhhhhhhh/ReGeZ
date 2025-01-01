@@ -11,7 +11,7 @@ const FAQ = () => {
             FAQs
           </h1>
           <p className="text-center mt-5 font-second px-5 ">
-            Here are some comment question About ReGeZ
+            Here are some comment questions About ReGeZ:
           </p>
         </div>
         <div className="max-w-5xl px-5 mt-16 mx-auto">
