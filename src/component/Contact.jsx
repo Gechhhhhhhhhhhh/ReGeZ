@@ -38,7 +38,7 @@ const Contact = () => {
               <p className="text-sm py-1 font-second">
                 Reach out to us anytime, We'll answer as soon as we can
               </p>
-              <button className="hover:underline">+855 71 776 0209</button>
+              <button className="hover:underline">(+855)71-776-0209</button>
             </div>
             <div className="text-center" data-aos="fade-up">
               <div className=" flex items-center justify-center">
