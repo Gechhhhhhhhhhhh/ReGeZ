@@ -47,7 +47,7 @@ const Footer = () => {
             <Link to="https://www.facebook.com/share/19Sj1x9Q89/?mibextid=LQQJ4d">
               <FaFacebookF className="bg-second p-1 rounded-full md:text-2xl text-xl text-white hover:bg-white hover:text-second transition-all duration-150" />
             </Link>
-            <Link to="http://linkedin.com/in/regez-regenerative-genz-5b2592342">
+            <Link to="https://www.linkedin.com/company/regenerativegenz11/">
               <FaLinkedinIn className="bg-second p-1 md:text-2xl rounded-full text-xl text-white  hover:bg-white hover:text-second transition-all duration-150" />
             </Link>
             <Link to="https://youtube.com/@regenerative.genz11?si=Z-yP2p6ewyW_dW_v">
