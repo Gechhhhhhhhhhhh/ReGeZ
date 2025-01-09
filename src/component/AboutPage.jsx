@@ -11,7 +11,7 @@ const Boss = [
   {
     img: Teacher,
     name: "Ing Vanni",
-    position: "CEO at Master trainer & Kinder impact academy",
+    position: "Founder & CEO of Kinder Early Learning (KEL)",
     qoute: "Winners Never Quit & Quitters Never Win- Vince Lombardi",
     FB: "https://www.facebook.com/ingvanni",
     Tlg: "https://t.me/IngVanni",
