@@ -31,7 +31,7 @@ const Communication = () => {
             <ul className=" ml-3 list-disc list-inside font-text text-text text-pretty text-sm md:text-base space-y-2">
               <li>Allows individuals to express their thoughts clearly</li>
               <li>Collaborate better</li>
-              <li>Solve problems more efficientl</li>
+              <li>Solve problems more efficient</li>
             </ul>
           </div>
           <h1 className="text-2xl font-semibold font-primary py-5 md:text-3xl">
